@@ -1,8 +1,9 @@
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Berkay+%F0%9F%91%8B;Developer+%7C+Computer+Enthusiast)](https://git.io/typing-svg)</div>
 
 ## 📝 About Me
-A passionate software support engineer with a strong interest in web development and technology. Currently, I am advancing my skills in:
+I'm a passionate software engineer with a strong focus on web development and emerging technologies. My journey in tech is driven by curiosity and a constant desire to learn and innovate.
 
+#### Currently Focused on:
 <table>
   <tr>
     <td><strong>Languages</strong></td>
@@ -111,7 +112,7 @@ A passionate software support engineer with a strong interest in web development
   </tr>
 </table>
 
-## 📫 Connect with me
+## 📫 Let's Connect!
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-girgin3/)
