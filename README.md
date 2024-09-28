@@ -5,14 +5,14 @@ A passionate software support engineer with a strong interest in web development
 
 <table>
   <tr>
-    <td><strong>Languages:</strong></td>
+    <td><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     </td>
   </tr>
   <tr>
-    <td><strong>Frameworks:</strong></td>
+    <td><strong>Frameworks</strong></td>
     <td>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
     </td>
@@ -22,7 +22,7 @@ A passionate software support engineer with a strong interest in web development
 ## 🛠️ Technologies & Tools
 <table>
   <tr>
-    <td><strong>Languages:</strong></td>
+    <td><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -32,7 +32,7 @@ A passionate software support engineer with a strong interest in web development
     </td>
   </tr>
   <tr>
-    <td><strong>Tools:</strong></td>
+    <td><strong>Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
@@ -42,46 +42,46 @@ A passionate software support engineer with a strong interest in web development
     </td>
   </tr>
   <tr>
-    <td><strong>Browser:</strong></td>
+    <td><strong>Browser</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox">
     </td>
   </tr>
   <tr>
-    <td><strong>Search Engine:</strong></td>
+    <td><strong>Search Engine</strong></td>
     <td>
       <img src="https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="DuckDuckGo">
     </td>
   </tr>
   <tr>
-    <td><strong>Cloud:</strong></td>
+    <td><strong>Cloud</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="Mega.nz">
       <img src="https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white" alt="Proton Drive">
     </td>
   </tr>
   <tr>
-    <td><strong>IDE/Editor:</strong></td>
+    <td><strong>IDE/Editor</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
       <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
     </td>
   </tr>
   <tr>
-    <td><strong>Design:</strong></td>
+    <td><strong>Design</strong></td>
     <td>
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     </td>
   </tr>
   <tr>
-    <td><strong>Gaming:</strong></td>
+    <td><strong>Gaming</strong></td>
     <td>
       <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
       <img src="https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" alt="3DS">
     </td>
   </tr>
   <tr>
-    <td><strong>Data:</strong></td>
+    <td><strong>Data</strong></td>
     <td>
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -89,7 +89,7 @@ A passionate software support engineer with a strong interest in web development
     </td>
   </tr>
   <tr>
-    <td><strong>OS:</strong></td>
+    <td><strong>OS</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
       <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="Linux Mint">
@@ -97,13 +97,13 @@ A passionate software support engineer with a strong interest in web development
     </td>
   </tr>
   <tr>
-    <td><strong>Email:</strong></td>
+    <td><strong>Email</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Thunderbird-0A84FF.svg?style=for-the-badge&logo=Thunderbird&logoColor=white" alt="Thunderbird">
     </td>
   </tr>
   <tr>
-    <td><strong>IoT:</strong></td>
+    <td><strong>IoT</strong></td>
     <td>
       <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
       <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
